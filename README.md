@@ -4,10 +4,8 @@ The system consists of a client, a Windows server and a database.
 For reasons of simplicity the server acts as an admin panel, although for correctness the admin should be managed like any other client and users should be distinguished by the role (for example standard, admin).
 
 The Database contains entries for cities. A city must be present in the database to be added to the path graph.
-We have two UML classes:
+We have an class:
 
-
-   - User with username(key), password and role;
    - City with id(key), name, weight
 
 
@@ -42,3 +40,4 @@ Being a non-directed graph, if there is an edge from city 0 to city 1 it must be
 ### To do ###
 Authentication management has not been implemented, so the user class is not used.  
 The socket closing of the client is not well handled.
+Class User with username(key), password and role for auth.
