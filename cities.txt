@@ -1,0 +1,16 @@
+1,London,5
+2,Birmingham,5
+3,Manchester,5
+4,Liverpool,5
+5,Glasgow,3
+6,Leeds,3
+7,Edinburgh,3
+8,Peterborough,3
+9,Newcastle,3
+10,Bath,3
+11,Brighton,1
+12,Leicester,1
+13,Oxford,1
+14,Cambridge,1
+15,Sheffield,1
+16,John O’Groats,1
