@@ -39,5 +39,5 @@ Being a non-directed graph, if there is an edge from city 0 to city 1 it must be
 
 ### To do ###
 Authentication management has not been implemented, so the user class is not used.  
-The socket closing of the client is not well handled.
-Class User with username(key), password and role for auth.
+The socket closing of the client is not well handled.  
+Class User with username(key), password and role for auth.  
